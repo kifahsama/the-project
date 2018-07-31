@@ -1,0 +1,5 @@
+.grid{
+    background-color: rgb(226, 27, 27);
+    grid-auto-rows: 500px;
+    grid-gap: 4px
+}

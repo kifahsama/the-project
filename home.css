@@ -1,0 +1,33 @@
+body{
+    padding-left: 15%;
+    padding-right: 15%;
+    background-image: url(melly-brown.jpg)
+}
+
+h1 {     
+
+    font-family: 'Great Vibes', cursive;
+    font-size: 100px;
+    color: #f9aa33;
+    text-align: center;
+}
+
+.mylist{
+list-style-type: none;
+}
+.mybg{
+    background-color:rgba(250, 250, 250, 0.637);
+}
+
+a:hover{
+    color: #f9aa33;
+}
+.mytitle{
+    background-image:url(DFv_S-mWAAAYiTd.jpg);
+    text-align: center;
+    padding-top:25px;
+}
+.my{
+    padding-top: 30px;
+    text-align: right;
+}
